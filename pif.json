@@ -1,14 +1,14 @@
 {
-  "VERSION": "20260131",
-  "PRODUCT": "shiba_beta",
-  "DEVICE": "shiba",
+  "VERSION": "20260201",
+  "PRODUCT": "mustang_beta",
+  "DEVICE": "mustang",
   "MANUFACTURER": "Google",
   "BRAND": "google",
-  "MODEL": "Pixel 8",
+  "MODEL": "Pixel 10 Pro XL",
   "RELEASE": "null",
   "INCREMENTAL": "null",
   "ID": "null",
-  "FINGERPRINT": "google/shiba_beta/shiba:16/BP31.250523.006/13607978:user/release-keys",
+  "FINGERPRINT": "google/mustang_beta/mustang:CANARY/ZP11.251212.007/14649019:user/release-keys",
   "SECURITY_PATCH": "null",
   "DEVICE_INITIAL_SDK_INT": "null"
 }
