@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <version date="29/03/2026">
+<item type="none"></item>
+<item type="none">✅ VN-ROM Control</item>
+<item type="new">Brand-New Dashboard: Completely redesigned UI for VN-ROM Control.</item>
+<item type="new">Enhanced Navigation: Sidebar removed, replaced with a modern bottom Dock for quick access.</item>
+<item type="new">App Management: New App Disabler (Freeze/Hide) feature integrated.</item>
+<item type="new">Smart Search: Instantly find settings and applications within the app.</item>
+<item type="new">Icon Customization: Colorize icons and backgrounds (Custom, Dynamic, or Random colors).</item>
+<item type="new">Advanced Styling: Customize text colors and background effects (Blur, Matrix, or Custom images).</item>
+<item type="none"></item>
+<item type="none">✅ VN-ROM Features</item>
+<item type="new">Camera Energy Ring: Customizable animated glowing ring around the front camera.</item>
+<item type="new">Battery Master: Customize default battery icons, colors (Light/Dark mode), and fonts.</item>
+<item type="new">Real-time Weather: Live weather display directly on the Status Bar.</item>
+<item type="new">Connectivity Icons: New options for WiFi 5/7G and 5G+ Signal Spoofing.</item>
+<item type="new">Lockscreen Polish: Custom colors for icons on the lockscreen.</item>
+<item type="new">Quick Panel Art: Support for custom background images and solid colors.</item>
+<item type="new">Custom Backgrounds: Support for Matrix effects and custom images in Quick Settings and Notification panels.</item>
+<item type="new">Device Information: Display detailed hardware and software info directly in the dashboard.</item>
+<item type="new">Quick Launch Bar: Added a customizable shortcut bar for instant app access.</item>
+<item type="new">Refined Notifications: Redesigned rounded notification backgrounds to match stock aesthetics.</item>
+<item type="new">Instant Apply: Notification color changes now take effect immediately.</item>
+<item type="new">RAM Monitor: Modernized rounded design for the RAM viewer in Navigation Bar.</item>
+<item type="new">Power Menu Pro: Advanced power options now fully integrated.</item>
+<item type="new">Seamless Engine: 97% of mods apply instantly without SystemUI restart (Except Signal/WiFi icons).</item>
+<item type="new">Many more improvements! Explore for yourself in this stable OneUI 8.x release.</item>
+<item type="none"></item>
+<item type="none">✅ Settings</item>
+<item type="new">Exclusive VN-ROM Dashboard: A redesigned, user-friendly settings interface.</item>
+<item type="new">Real-time System Monitor: Live tracking of RAM, Storage, and Battery temperature.</item>
+<item type="new">One-Tap Optimizer: Instantly clear RAM and clean system junk for peak performance.</item>
+<item type="new">Device Identity: Dynamic header displaying your Galaxy model and ROM version.</item>
+<item type="new">Storage Engine: Accurate capacity detection for 128GB/256GB/512GB/1TB models.</item>
+<item type="new">Battery Health: Improved thermal monitoring and charging status accuracy.</item>
+<item type="new">Integrated Advanced Power Menu: Quick access to essential power options directly from the dashboard.</item>
+<item type="new">Pro Reboot Options: Soft Reboot, Recovery Mode, and Download Mode (Odin) with a single tap.</item>
+<item type="new">Integrated ROM Changelog: Stay informed with the latest updates! You can now view detailed version history, new features, and bug fixes directly within the VN-ROM Settings interface.</item>
+    </version>
+</changelog>
