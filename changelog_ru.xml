@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
     <version date="25/04/2026">
+<item type="none"></item>
 <item type="none">✅ VN-ROM Control</item>
 <item type="fix">Исправлено зависание ползунка (Seekbar).</item>
 <item type="new">Добавлено отображение информации о телефоне.</item>
