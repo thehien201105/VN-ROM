@@ -3,6 +3,8 @@
     <version date="23/04/2026">
 <item type="none"></item>
 <item type="none">✅ VN-ROM Control</item>
+<item type="new">Added OTA update feature</item>
+<item type="new">Added license check feature.</item>
 <item type="fix">Fixing a frozen Seekbar.</item>
 <item type="new">Add phone information display.</item>
 <item type="new">Brand-New Dashboard: Completely redesigned UI for VN-ROM Control.</item>
