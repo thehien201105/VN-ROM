@@ -3,6 +3,8 @@
     <version date="25/04/2026">
 <item type="none"></item>
 <item type="none">✅ VN-ROM Control</item>
+<item type="new">Добавлена ​​функция обновления по воздуху (OTA).</item>
+<item type="new">Добавлена ​​функция проверки лицензии.</item>
 <item type="fix">Исправлено зависание ползунка (Seekbar).</item>
 <item type="new">Добавлено отображение информации о телефоне.</item>
 <item type="new">Новый Dashboard: Полностью переработанный интерфейс VN-ROM Control.</item>
