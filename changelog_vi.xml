@@ -3,7 +3,7 @@
     <version date="25/04/2026">
 <item type="none">✅ <b>VN-ROM Control</b></item>
 <item type="new">Thêm tính năng cập nhật OTA</item>
-<item type="new">color='red'>Thêm tính năng kiểm tra bản quyền.</font></item>
+<item type="new"><font color='red'>Thêm tính năng kiểm tra bản quyền.</font></item>
 <item type="fix">Sửa lỗi đứng thanh kéo (Seekbar).</item>
 <item type="new">Bổ sung hiển thị thông tin điện thoại.</item>
 <item type="new">Giao diện Dashboard mới: Thiết kế lại toàn bộ UI cho VN-ROM Control.</item>
