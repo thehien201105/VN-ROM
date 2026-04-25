@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
     <version date="25/04/2026">
-<item type="none">✅ VN-ROM Control</item>
+<item type="none">✅ <b>VN-ROM Control</b></item>
 <item type="fix">Sửa lỗi đứng thanh kéo (Seekbar).</item>
 <item type="new">Bổ sung hiển thị thông tin điện thoại.</item>
 <item type="new">Giao diện Dashboard mới: Thiết kế lại toàn bộ UI cho VN-ROM Control.</item>
@@ -11,7 +11,7 @@
 <item type="new">Tùy biến Icon: Thay đổi màu sắc icon và nền (Màu tùy chỉnh, màu động hoặc ngẫu nhiên).</item>
 <item type="new">Cá nhân hóa nâng cao: Tùy chỉnh màu chữ và hiệu ứng nền (Blur, Matrix hoặc ảnh cá nhân).</item>
 <item type="none"></item>
-<item type="none">✅ Tính năng VN-ROM</item>
+<item type="none">✅ <b>Tính năng VN-ROM</b></item>
 <item type="new">Vòng năng lượng Camera: Hiệu ứng vòng sáng quanh camera trước tùy chỉnh được.</item>
 <item type="new">Quản lý Pin: Tùy chỉnh icon pin mặc định, màu sắc (Sáng/Tối) và font chữ.</item>
 <item type="new">Thời tiết thời gian thực: Hiển thị thời tiết trực tiếp trên thanh Trạng thái.</item>
@@ -28,7 +28,7 @@
 <item type="new">Cơ chế mượt mà: 97% các bản mod áp dụng ngay không cần khởi động lại SystemUI (Trừ icon Sóng/WiFi).</item>
 <item type="new">Và nhiều cải tiến khác! Hãy tự mình khám phá trong bản phát hành ổn định OneUI 8.x này.</item>
 <item type="none"></item>
-<item type="none">✅ Cài đặt</item>
+<item type="none">✅ <b>Cài đặt</b></item>
 <item type="new">Dashboard VN-ROM độc quyền: Giao diện cài đặt thân thiện, được thiết kế lại.</item>
 <item type="new">Giám sát hệ thống: Theo dõi trực tiếp RAM, Bộ nhớ và Nhiệt độ pin.</item>
 <item type="new">Tối ưu 1 chạm: Giải phóng RAM và dọn rác hệ thống tức thì để đạt hiệu năng cao nhất.</item>
