@@ -1,5 +1,5 @@
 {
-  "VERSION": "20260416",
+  "VERSION": "20260517",
   "PRODUCT": "shiba_beta",
   "DEVICE": "shiba",
   "MANUFACTURER": "Google",
@@ -8,7 +8,7 @@
   "RELEASE": "null",
   "INCREMENTAL": "null",
   "ID": "null",
-  "FINGERPRINT": "google/shiba_beta/shiba:CANARY/ZP11.260320.007/15154667:user/release-keys",
+  "FINGERPRINT": "google/shiba_beta/shiba:CANARY/ZP11.260417.009/15372612:user/release-keys",
   "SECURITY_PATCH": "null",
   "DEVICE_INITIAL_SDK_INT": "null"
 }
