@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-    <version date="23/04/2026">
+    <version date="17/05/2026">
 <item type="none"></item>
-<item type="none">✅ VN-ROM Control</item>
+<item type="none">✅ <b>VN-ROM Control</b></item>
 <item type="new">Added OTA update feature</item>
-<item type="new">Added license check feature.</item>
+<item type="new"><font color='red'>Added license check feature.</font></item>
 <item type="fix">Fixing a frozen Seekbar.</item>
 <item type="new">Add phone information display.</item>
 <item type="new">Brand-New Dashboard: Completely redesigned UI for VN-ROM Control.</item>
@@ -14,7 +14,7 @@
 <item type="new">Icon Customization: Colorize icons and backgrounds (Custom, Dynamic, or Random colors).</item>
 <item type="new">Advanced Styling: Customize text colors and background effects (Blur, Matrix, or Custom images).</item>
 <item type="none"></item>
-<item type="none">✅ VN-ROM Features</item>
+<item type="none">✅ <b>VN-ROM Features</b></item>
 <item type="new">Camera Energy Ring: Customizable animated glowing ring around the front camera.</item>
 <item type="new">Battery Master: Customize default battery icons, colors (Light/Dark mode), and fonts.</item>
 <item type="new">Real-time Weather: Live weather display directly on the Status Bar.</item>
@@ -31,7 +31,7 @@
 <item type="new">Seamless Engine: 97% of mods apply instantly without SystemUI restart (Except Signal/WiFi icons).</item>
 <item type="new">Many more improvements! Explore for yourself in this stable OneUI 8.x release.</item>
 <item type="none"></item>
-<item type="none">✅ Settings</item>
+<item type="none">✅ <b>Settings</b></item>
 <item type="new">Exclusive VN-ROM Dashboard: A redesigned, user-friendly settings interface.</item>
 <item type="new">Real-time System Monitor: Live tracking of RAM, Storage, and Battery temperature.</item>
 <item type="new">One-Tap Optimizer: Instantly clear RAM and clean system junk for peak performance.</item>
