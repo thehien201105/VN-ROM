@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-    <version date="25/04/2026">
+    <version date="17/05/2026">
 <item type="none"></item>
-<item type="none">✅ VN-ROM Control</item>
+<item type="none">✅ <b>VN-ROM Control</b></item>
 <item type="new">Добавлена ​​функция обновления по воздуху (OTA).</item>
-<item type="new">Добавлена ​​функция проверки лицензии.</item>
+<item type="new"><font color='red'>Добавлена ​​функция проверки лицензии.</font></item>
 <item type="fix">Исправлено зависание ползунка (Seekbar).</item>
 <item type="new">Добавлено отображение информации о телефоне.</item>
 <item type="new">Новый Dashboard: Полностью переработанный интерфейс VN-ROM Control.</item>
@@ -14,7 +14,7 @@
 <item type="new">Кастомизация иконок: Изменение цвета иконок и фона (Пользовательский, Динамический или Случайный).</item>
 <item type="new">Продвинутый стиль: Настройка цвета текста и эффектов фона (Размытие, Матрица или свои изображения).</item>
 <item type="none"></item>
-<item type="none">✅ Функции VN-ROM</item>
+<item type="none">✅ <b>Функции VN-ROM</b></item>
 <item type="new">Энергетическое кольцо камеры: Настраиваемое анимированное кольцо вокруг фронтальной камеры.</item>
 <item type="new">Battery Master: Настройка иконок батареи, цветов (Светлый/Темный режим) и шрифтов.</item>
 <item type="new">Погода в реальном времени: Отображение погоды прямо в строке состояния.</item>
@@ -31,7 +31,7 @@
 <item type="new">Плавный движок: 97% модов применяются мгновенно без перезапуска SystemUI (Кроме иконок сети/WiFi).</item>
 <item type="new">Множество других улучшений! Изучите их сами в этом стабильном релизе OneUI 8.x.</item>
 <item type="none"></item>
-<item type="none">✅ Настройки</item>
+<item type="none">✅ <b>Настройки</b></item>
 <item type="new">Эксклюзивный VN-ROM Dashboard: Переработанный и удобный интерфейс настроек.</item>
 <item type="new">Мониторинг системы: Отслеживание ОЗУ, хранилища и температуры батареи в реальном времени.</item>
 <item type="new">Оптимизация в одно нажатие: Мгновенная очистка ОЗУ и системного мусора.</item>
