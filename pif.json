@@ -1,14 +1,14 @@
 {
-  "VERSION": "20260702",
-  "PRODUCT": "komodo_beta",
-  "DEVICE": "komodo",
+  "VERSION": "20260718",
+  "PRODUCT": "shiba_beta",
+  "DEVICE": "shiba",
   "MANUFACTURER": "Google",
   "BRAND": "google",
-  "MODEL": "Pixel 9 Pro XL",
+  "MODEL": "Pixel 8",
   "RELEASE": "null",
   "INCREMENTAL": "null",
   "ID": "null",
-  "FINGERPRINT": "google/komodo_beta/komodo:CANARY/ZP11.260515.009/15513807:user/release-keys",
+  "FINGERPRINT": "google/shiba_beta/shiba:CANARY/ZP11.260618.005/15760424:user/release-keys",
   "SECURITY_PATCH": "null",
   "DEVICE_INITIAL_SDK_INT": "null"
 }
